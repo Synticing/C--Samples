@@ -1,0 +1,15 @@
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\obj\x86\Release\Application.g.vb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\obj\x86\Release\CameraTilt_MarkupCompile.cache
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\bin\Release\CameraTilt.exe
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\bin\Release\CameraTilt.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\obj\x86\Release\MainWindow.baml
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\obj\x86\Release\MainWindow.g.vb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\obj\x86\Release\CameraTilt.g.resources
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\obj\x86\Release\Resources.resources
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\obj\x86\Release\CameraTilt.exe
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTiltVB\CameraTilt\obj\x86\Release\CameraTilt.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="AudioRecorder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Audio Recorder Sample" Loaded="Window_Loaded" Height="375" Width="525" Closing="Window_Closing"
+        xmlns:my="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Seconds to Record: " />
+                <Label Content="{Binding ElementName=RecordForTimeSpan, Path=Value}" />
+            </StackPanel>
+            <Slider Name="RecordForTimeSpan" Minimum="1"  Maximum="25" IsSnapToTickEnabled="True" />
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Record" Height="50" Width="100" Name="RecordButton" Click="RecordButton_Click" />
+                <Button Content="Play" Height="50" Width="100" Name="PlayButton" Click="PlayButton_Click" />
+            </StackPanel>
+            <MediaElement Name="audioPlayer" />
+            <my:KinectSensorChooser Name="kinectSensorChooser1"  Margin="0,10" Width="350" />
+        </StackPanel>
+    </Grid>
+</Window>

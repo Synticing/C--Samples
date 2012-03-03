@@ -1,0 +1,17 @@
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\Bin\Debug\KinectAudioDemo.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\Bin\Debug\KinectAudioDemo.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\Bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\Bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\MainWindow.baml
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\MainWindow.g.vb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\Application.g.vb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\KinectAudioDemo_MarkupCompile.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\KinectAudioDemo.g.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\Resources.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\KinectAudioDemo.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\KinectAudioDemo.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\KinectAudioDemo.exe
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\6.Audio\KinectAudioDemoVB\obj\Debug\KinectAudioDemo.pdb

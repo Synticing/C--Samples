@@ -1,0 +1,15 @@
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\bin\Release\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\bin\Release\CameraFundamentals.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\obj\x86\Release\MainWindow.g.vb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\obj\x86\Release\Application.g.vb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\obj\x86\Release\CameraFundamentals_MarkupCompile.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\obj\x86\Release\CameraFundamentals.g.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\obj\x86\Release\Resources.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\obj\x86\Release\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentalsVB\CameraFundamentals\obj\x86\Release\CameraFundamentals.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kody Weisman\Desktop\C#\C#\Speech\Bin\Debug\Speech.exe
+C:\Users\Kody Weisman\Desktop\C#\C#\Speech\Bin\Debug\Speech.pdb
+C:\Users\Kody Weisman\Desktop\C#\C#\Speech\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kody Weisman\Desktop\C#\C#\Speech\obj\Debug\Speech.g.resources
+C:\Users\Kody Weisman\Desktop\C#\C#\Speech\obj\Debug\Speech.exe
+C:\Users\Kody Weisman\Desktop\C#\C#\Speech\obj\Debug\Speech.pdb

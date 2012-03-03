@@ -1,0 +1,35 @@
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\SettingUpDevEnvironment.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\SettingUpDevEnvironment.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\MainWindow.baml
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\MainWindow.g.vb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\Application.g.vb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\SettingUpDevEnvironment_MarkupCompile.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\SettingUpDevEnvironment.g.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\Resources.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\SettingUpDevEnvironment.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\SettingUpDevEnvironment.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\SettingUpDevEnvironment.exe
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\SettingUpDevEnvironment.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\SettingUpDevEnvironment.exe
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\SettingUpDevEnvironment.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\MainWindow.baml
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\MainWindow.g.vb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\Application.g.vb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\SettingUpDevEnvironment_MarkupCompile.cache
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\SettingUpDevEnvironment.g.resources
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\Resources.resources
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\2.Setting Up Dev Environment\SettingUpDevEnvironmentVB\SettingUpDevEnvironment\obj\x86\Release\GenerateResource.write.1.tlog

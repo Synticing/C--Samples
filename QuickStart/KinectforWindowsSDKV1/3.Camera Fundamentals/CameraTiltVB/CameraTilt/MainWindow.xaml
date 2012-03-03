@@ -1,0 +1,18 @@
+﻿<Window x:Class="CameraTilt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="650" Loaded="Window_Loaded" Closing="Window_Closing" 
+        xmlns:my="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="366*" />
+            <ColumnDefinition Width="262*" />
+        </Grid.ColumnDefinitions>
+        <Slider Height="171" HorizontalAlignment="Left" Margin="124,31,0,0" Name="slider1" VerticalAlignment="Top" Width="38" Orientation="Vertical" Maximum="27" Minimum="-27" SmallChange="1" TickPlacement="TopLeft" Interval="1" IsSnapToTickEnabled="True" Grid.Column="1" />
+        <Label Content="{Binding Path=Value, ElementName=slider1}" Height="61" HorizontalAlignment="Left" Margin="161,84,0,0" Name="label1" VerticalAlignment="Top" FontSize="36" Grid.Column="1" />
+        <Button Content="Set Tilt" Height="51" HorizontalAlignment="Left" Margin="362,91,0,0" Name="button1" VerticalAlignment="Top" Width="122" FontSize="28" Click="button1_Click" Grid.ColumnSpan="2" />
+        <my:KinectSensorChooser HorizontalAlignment="Left" Name="kinectSensorChooser1" VerticalAlignment="Top" Width="328" Margin="19,27,0,0" />
+        <Label Content="Current Angle:" FontSize="36" Height="61" HorizontalAlignment="Left" Margin="282,214,0,0" Name="label2" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label FontSize="36" Height="61" HorizontalAlignment="Left" Margin="161,214,0,0" Name="lblCurrentAngle" VerticalAlignment="Top" Content="..." Width="123" Grid.Column="1" />
+    </Grid>
+</Window>

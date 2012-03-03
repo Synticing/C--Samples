@@ -1,0 +1,30 @@
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\bin\Debug\CameraTilt.exe
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\bin\Debug\CameraTilt.pdb
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\MainWindow.baml
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\App.g.cs
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt_MarkupCompile.cache
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.g.resources
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.Properties.Resources.resources
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.exe
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\bin\Debug\CameraTilt.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\bin\Debug\CameraTilt.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\MainWindow.baml
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\App.g.cs
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt_MarkupCompile.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.g.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.Properties.Resources.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraTilt\CameraTilt\obj\x86\Debug\GenerateResource.write.1.tlog

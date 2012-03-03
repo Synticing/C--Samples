@@ -1,0 +1,32 @@
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.exe
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.pdb
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\MainWindow.baml
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\MainWindow.g.cs
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\App.g.cs
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder_MarkupCompile.cache
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder.g.resources
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder.Properties.Resources.resources
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder.exe
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\bin\Debug\AudioRecorder.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\MainWindow.baml
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\MainWindow.g.cs
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\App.g.cs
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder_MarkupCompile.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder.g.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder.Properties.Resources.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder.exe
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\6.Audio\AudioRecorder\AudioRecorder\obj\x86\Debug\AudioRecorder.pdb
